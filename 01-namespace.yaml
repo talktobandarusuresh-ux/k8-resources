@@ -1,0 +1,10 @@
+apiversion: v1
+kind: namespace
+Metadata:
+    name: namespace
+    labels:
+      environment: dev
+      project: roboshop
+    annotations:
+      owner: team-xyz
+      purpose: development-environment
