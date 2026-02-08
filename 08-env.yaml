@@ -10,4 +10,4 @@ spec:
     - name: course
       value: kubernetes
     - name: trainer
-      value: sivakumar
+      value: suresh
