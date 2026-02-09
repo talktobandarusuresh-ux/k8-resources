@@ -9,5 +9,5 @@ spec:
     env:
     - name: course
       value: kubernetes
-    - name: trainer
+    - name: learner
       value: suresh
